@@ -9,7 +9,7 @@ from datacleaner import data_cleaner
 default_args = {
     "owner": "airflow",
     "depends_on_past": False,
-    "start_date": datetime(2022, 2, 12),
+    "start_date": datetime(2022, 2, 13),
     "email": ["airflow@airflow.com"],
     "retries": 1,
     "retry_delay": timedelta(seconds=5),
@@ -33,22 +33,22 @@ with DAG('store_dag', default_args=default_args, schedule_interval='@daily',
 
     t5 = MySqlOperator(task_id='select_from_table', mysql_conn_id="mysql_conn", sql="select_from_table.sql")
 
-    t6 = BashOperator(task_id='move_file1', bash_command='cat ~/var/lib/mysql-files/location_wise_profit.csv &&'
-                                                         ' mv ~/var/lib/mysql-files/location_wise_profit.csv '
-                                                         '~/var/lib/mysql-files/location_wise_profit_%s.csv'
+    t6 = BashOperator(task_id='move_file1', bash_command='cat ~/store_files_airflow/location_wise_profit_2.csv '
+                                                         '&& mv ~/store_files_airflow/location_wise_profit_2.csv'
+                                                         ' ~/store_files_airflow/location_wise_profit_2_%s.csv'
                                                          % yesterday_date)
 
-    t7 = BashOperator(task_id='move_file2', bash_command='cat ~/var/lib/mysql-files/store_wise_profit.csv &&'
-                                                         ' mv ~/var/lib/mysql-files/store_wise_profit.csv'
-                                                         ' ~/var/lib/mysql-files/store_wise_profit_%s.csv'
+    t7 = BashOperator(task_id='move_file2', bash_command='cat ~/store_files_airflow/store_wise_profit_2.csv '
+                                                         '&& mv ~/store_files_airflow/store_wise_profit_2.csv'
+                                                         ' ~/store_files_airflow/store_wise_profit_2_%s.csv'
                                                          % yesterday_date)
 
     t8 = EmailOperator(task_id='send_email',
-        to='mohammad.salimi.b@gmail.com',
+        to='msbeni@gmail.com',
         subject='Daily report generated',
         html_content=""" <h1>Congratulations! Your store reports are ready.</h1> """,
-        files=['/var/lib/mysql-files/location_wise_profit_%s.csv' % yesterday_date,
-               '/var/lib/mysql-files/store_wise_profit_%s.csv' % yesterday_date])
+        files=['/var/lib/mysql-files/location_wise_profit_2_%s.csv' % yesterday_date,
+               '/var/lib/mysql-files/store_wise_profit_2_%s.csv' % yesterday_date])
 
     t9 = BashOperator(task_id='rename_raw',
                       bash_command='mv ~/var/lib/mysql-files/raw_store_transactions.csv'
