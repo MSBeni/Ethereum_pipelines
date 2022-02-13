@@ -9,7 +9,7 @@ args = {
 }
 
 DAG = DAG(
-  dag_id='simple_xcom',
+  dag_id='simple_auto_xcom',
   default_args=args,
   schedule_interval="@daily",
 )
