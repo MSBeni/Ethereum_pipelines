@@ -23,8 +23,8 @@ def push_function(**kwargs):
 
 def pull_function(**kwargs):
     ti = kwargs['ti']
-    pulled_message = ti.xcom_pull(key='message')
-    # pulled_message = ti.xcom_pull(key='message', task_ids='new_push_task')
+    # pulled_message = ti.xcom_pull(key='message')
+    pulled_message = ti.xcom_pull(key='message', task_ids='new_push_task')
     print("Pulled Message: '%s'" % pulled_message)
 
 
@@ -42,9 +42,9 @@ t2 = PythonOperator(
 
 
 t3 = PythonOperator(
-    task_id='pull_task',
+    task_id='new_push_task',
     python_callable=pull_function,
     provide_context=True,
     dag=DAG)
 
-t1 >> t2
+t1 >> t3 >> t2
