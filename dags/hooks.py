@@ -8,7 +8,7 @@ default_args = {
     'owner': 'Airflow',
     "retries": 1,
     "retry_delay": timedelta(minutes=5),
-    'start_date': datetime(2019, 11, 26),
+    'start_date': datetime(2022, 2, 13),
 }
 
 dag = DAG('hooks_demo', default_args=default_args, schedule_interval='@daily')
