@@ -17,11 +17,11 @@ def transfer_function(ds, **kwargs):
 
     query = "SELECT * FROM source_city_table"
 
-    #source hook
+    # source hook
     source_hook = PostgresHook(postgres_conn_id='postgres_conn', schema='airflow')
     source_conn = source_hook.get_conn()
 
-    #destination hook
+    # destination hook
     destination_hook = PostgresHook(postgres_conn_id='postgres_conn', schema='airflow')
     destination_conn = destination_hook.get_conn()
 
@@ -40,6 +40,7 @@ def transfer_function(ds, **kwargs):
     source_conn.close()
     destination_conn.close()
     print("Data transferred successfully!")
+
 
 t1 = PythonOperator(task_id='transfer', python_callable=transfer_function, provide_context=True, dag=dag)
 
