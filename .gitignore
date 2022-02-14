@@ -6,6 +6,8 @@ Session.vim
 .netrwhist
 *~
 
+.github
+
 ### SublimeText ###
 # cache files for sublime text
 *.tmlanguage.cache
