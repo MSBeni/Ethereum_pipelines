@@ -1,0 +1,896 @@
+2022-02-10 14:09:49,825 - root [INFO] - Using https://mainnet.infura.io/v3/b12f5367873a4468b621a5f63cb74e39
+2022-02-10 14:09:55,225 - root [INFO] - Current block 14180935, target block 500000, last synced block 499999, blocks to sync 1
+2022-02-10 14:09:55,225 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:55,307 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:55,307 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082120.
+2022-02-10 14:09:55,307 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,307 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000116.
+2022-02-10 14:09:55,307 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,308 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000088.
+2022-02-10 14:09:55,308 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:55,308 - root [INFO] - Writing last synced block 500000
+2022-02-10 14:09:55,394 - root [INFO] - Current block 14180935, target block 500001, last synced block 500000, blocks to sync 1
+2022-02-10 14:09:55,394 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083210.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000042.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,477 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000050.
+2022-02-10 14:09:55,477 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:55,477 - root [INFO] - Writing last synced block 500001
+2022-02-10 14:09:55,558 - root [INFO] - Current block 14180935, target block 500002, last synced block 500001, blocks to sync 1
+2022-02-10 14:09:55,558 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:55,639 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:55,640 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081465.
+2022-02-10 14:09:55,640 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,725 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.085617.
+2022-02-10 14:09:55,726 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,727 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000948.
+2022-02-10 14:09:55,727 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:55,728 - root [INFO] - Writing last synced block 500002
+2022-02-10 14:09:55,816 - root [INFO] - Current block 14180935, target block 500003, last synced block 500002, blocks to sync 1
+2022-02-10 14:09:55,816 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084367.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000044.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:55,900 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000052.
+2022-02-10 14:09:55,901 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:55,901 - root [INFO] - Writing last synced block 500003
+2022-02-10 14:09:55,981 - root [INFO] - Current block 14180935, target block 500004, last synced block 500003, blocks to sync 1
+2022-02-10 14:09:55,982 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:56,103 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:56,104 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.122085.
+2022-02-10 14:09:56,104 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,104 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000071.
+2022-02-10 14:09:56,104 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,104 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000058.
+2022-02-10 14:09:56,104 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:56,104 - root [INFO] - Writing last synced block 500004
+2022-02-10 14:09:56,186 - root [INFO] - Current block 14180935, target block 500005, last synced block 500004, blocks to sync 1
+2022-02-10 14:09:56,186 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.143460.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000100.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,330 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000084.
+2022-02-10 14:09:56,331 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:56,331 - root [INFO] - Writing last synced block 500005
+2022-02-10 14:09:56,416 - root [INFO] - Current block 14180935, target block 500006, last synced block 500005, blocks to sync 1
+2022-02-10 14:09:56,416 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:56,500 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:56,500 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084242.
+2022-02-10 14:09:56,501 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,596 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.095530.
+2022-02-10 14:09:56,596 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,596 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000110.
+2022-02-10 14:09:56,597 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:56,597 - root [INFO] - Writing last synced block 500006
+2022-02-10 14:09:56,682 - root [INFO] - Current block 14180935, target block 500007, last synced block 500006, blocks to sync 1
+2022-02-10 14:09:56,683 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:56,776 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:56,776 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.093739.
+2022-02-10 14:09:56,776 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,776 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000047.
+2022-02-10 14:09:56,777 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,777 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000040.
+2022-02-10 14:09:56,777 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:56,777 - root [INFO] - Writing last synced block 500007
+2022-02-10 14:09:56,864 - root [INFO] - Current block 14180935, target block 500008, last synced block 500007, blocks to sync 1
+2022-02-10 14:09:56,864 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:56,947 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:56,947 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083324.
+2022-02-10 14:09:56,948 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,948 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000068.
+2022-02-10 14:09:56,948 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:56,948 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000059.
+2022-02-10 14:09:56,948 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:56,948 - root [INFO] - Writing last synced block 500008
+2022-02-10 14:09:57,031 - root [INFO] - Current block 14180935, target block 500009, last synced block 500008, blocks to sync 1
+2022-02-10 14:09:57,031 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:57,112 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:57,113 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081330.
+2022-02-10 14:09:57,113 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,195 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082186.
+2022-02-10 14:09:57,195 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,196 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000851.
+2022-02-10 14:09:57,197 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:57,197 - root [INFO] - Writing last synced block 500009
+2022-02-10 14:09:57,286 - root [INFO] - Current block 14180935, target block 500010, last synced block 500009, blocks to sync 1
+2022-02-10 14:09:57,286 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:57,373 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:57,373 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.087110.
+2022-02-10 14:09:57,373 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,455 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081816.
+2022-02-10 14:09:57,455 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,456 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000209.
+2022-02-10 14:09:57,456 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:57,456 - root [INFO] - Writing last synced block 500010
+2022-02-10 14:09:57,542 - root [INFO] - Current block 14180935, target block 500011, last synced block 500010, blocks to sync 1
+2022-02-10 14:09:57,542 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:57,623 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:57,623 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081577.
+2022-02-10 14:09:57,624 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,624 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000204.
+2022-02-10 14:09:57,624 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,624 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000163.
+2022-02-10 14:09:57,625 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:57,625 - root [INFO] - Writing last synced block 500011
+2022-02-10 14:09:57,711 - root [INFO] - Current block 14180935, target block 500012, last synced block 500011, blocks to sync 1
+2022-02-10 14:09:57,711 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081601.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000070.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:57,793 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000058.
+2022-02-10 14:09:57,793 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:57,793 - root [INFO] - Writing last synced block 500012
+2022-02-10 14:09:57,876 - root [INFO] - Current block 14180935, target block 500013, last synced block 500012, blocks to sync 1
+2022-02-10 14:09:57,876 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:57,961 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:57,961 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084682.
+2022-02-10 14:09:57,961 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,065 - ProgressLogger [INFO] - Finished work. Total items processed: 4. Took 0:00:00.103636.
+2022-02-10 14:09:58,065 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,066 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000368.
+2022-02-10 14:09:58,066 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:58,066 - root [INFO] - Writing last synced block 500013
+2022-02-10 14:09:58,150 - root [INFO] - Current block 14180935, target block 500014, last synced block 500013, blocks to sync 1
+2022-02-10 14:09:58,151 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:58,233 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:58,234 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083202.
+2022-02-10 14:09:58,234 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,330 - ProgressLogger [INFO] - Finished work. Total items processed: 3. Took 0:00:00.095905.
+2022-02-10 14:09:58,330 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,330 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000128.
+2022-02-10 14:09:58,331 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:58,331 - root [INFO] - Writing last synced block 500014
+2022-02-10 14:09:58,421 - root [INFO] - Current block 14180935, target block 500015, last synced block 500014, blocks to sync 1
+2022-02-10 14:09:58,421 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:58,504 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:58,505 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083361.
+2022-02-10 14:09:58,505 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,592 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086818.
+2022-02-10 14:09:58,592 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,592 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000139.
+2022-02-10 14:09:58,592 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:58,593 - root [INFO] - Writing last synced block 500015
+2022-02-10 14:09:58,678 - root [INFO] - Current block 14180935, target block 500016, last synced block 500015, blocks to sync 1
+2022-02-10 14:09:58,678 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084608.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000047.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,763 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000039.
+2022-02-10 14:09:58,763 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:58,763 - root [INFO] - Writing last synced block 500016
+2022-02-10 14:09:58,845 - root [INFO] - Current block 14180935, target block 500017, last synced block 500016, blocks to sync 1
+2022-02-10 14:09:58,845 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:58,925 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:58,925 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080238.
+2022-02-10 14:09:58,926 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,926 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000078.
+2022-02-10 14:09:58,926 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:58,926 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000072.
+2022-02-10 14:09:58,926 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:58,926 - root [INFO] - Writing last synced block 500017
+2022-02-10 14:09:59,010 - root [INFO] - Current block 14180935, target block 500018, last synced block 500017, blocks to sync 1
+2022-02-10 14:09:59,010 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:59,093 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:59,093 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082723.
+2022-02-10 14:09:59,094 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,179 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.085365.
+2022-02-10 14:09:59,179 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,180 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000570.
+2022-02-10 14:09:59,180 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:59,180 - root [INFO] - Writing last synced block 500018
+2022-02-10 14:09:59,265 - root [INFO] - Current block 14180935, target block 500019, last synced block 500018, blocks to sync 1
+2022-02-10 14:09:59,265 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:59,357 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:59,358 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.092729.
+2022-02-10 14:09:59,358 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,358 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000193.
+2022-02-10 14:09:59,359 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,359 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000169.
+2022-02-10 14:09:59,359 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:59,360 - root [INFO] - Writing last synced block 500019
+2022-02-10 14:09:59,450 - root [INFO] - Current block 14180935, target block 500020, last synced block 500019, blocks to sync 1
+2022-02-10 14:09:59,450 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:59,534 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:59,534 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083988.
+2022-02-10 14:09:59,535 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,627 - ProgressLogger [INFO] - Finished work. Total items processed: 3. Took 0:00:00.092073.
+2022-02-10 14:09:59,627 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,627 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000158.
+2022-02-10 14:09:59,627 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:59,628 - root [INFO] - Writing last synced block 500020
+2022-02-10 14:09:59,714 - root [INFO] - Current block 14180935, target block 500021, last synced block 500020, blocks to sync 1
+2022-02-10 14:09:59,714 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:59,795 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:59,796 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082359.
+2022-02-10 14:09:59,796 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,797 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000192.
+2022-02-10 14:09:59,797 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,797 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000171.
+2022-02-10 14:09:59,797 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:59,798 - root [INFO] - Writing last synced block 500021
+2022-02-10 14:09:59,886 - root [INFO] - Current block 14180935, target block 500022, last synced block 500021, blocks to sync 1
+2022-02-10 14:09:59,886 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:09:59,978 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:09:59,978 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.092257.
+2022-02-10 14:09:59,979 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,979 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000102.
+2022-02-10 14:09:59,979 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:09:59,979 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000086.
+2022-02-10 14:09:59,979 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:09:59,979 - root [INFO] - Writing last synced block 500022
+2022-02-10 14:10:00,065 - root [INFO] - Current block 14180935, target block 500023, last synced block 500022, blocks to sync 1
+2022-02-10 14:10:00,065 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:00,148 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:00,148 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082426.
+2022-02-10 14:10:00,148 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,148 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000157.
+2022-02-10 14:10:00,149 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,149 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000098.
+2022-02-10 14:10:00,149 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:00,149 - root [INFO] - Writing last synced block 500023
+2022-02-10 14:10:00,239 - root [INFO] - Current block 14180935, target block 500024, last synced block 500023, blocks to sync 1
+2022-02-10 14:10:00,239 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:00,327 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:00,327 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.087874.
+2022-02-10 14:10:00,327 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,440 - ProgressLogger [INFO] - Finished work. Total items processed: 4. Took 0:00:00.112315.
+2022-02-10 14:10:00,440 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,441 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000561.
+2022-02-10 14:10:00,441 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:00,441 - root [INFO] - Writing last synced block 500024
+2022-02-10 14:10:00,525 - root [INFO] - Current block 14180935, target block 500025, last synced block 500024, blocks to sync 1
+2022-02-10 14:10:00,525 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086068.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000078.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,611 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000067.
+2022-02-10 14:10:00,611 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:00,611 - root [INFO] - Writing last synced block 500025
+2022-02-10 14:10:00,694 - root [INFO] - Current block 14180935, target block 500026, last synced block 500025, blocks to sync 1
+2022-02-10 14:10:00,694 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:00,775 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:00,776 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081307.
+2022-02-10 14:10:00,776 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,776 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000044.
+2022-02-10 14:10:00,776 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,776 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000034.
+2022-02-10 14:10:00,776 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:00,776 - root [INFO] - Writing last synced block 500026
+2022-02-10 14:10:00,860 - root [INFO] - Current block 14180935, target block 500027, last synced block 500026, blocks to sync 1
+2022-02-10 14:10:00,861 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:00,947 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:00,947 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086476.
+2022-02-10 14:10:00,947 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,948 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000119.
+2022-02-10 14:10:00,948 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:00,948 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000109.
+2022-02-10 14:10:00,948 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:00,948 - root [INFO] - Writing last synced block 500027
+2022-02-10 14:10:01,042 - root [INFO] - Current block 14180935, target block 500028, last synced block 500027, blocks to sync 1
+2022-02-10 14:10:01,042 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.094394.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000069.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,136 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000059.
+2022-02-10 14:10:01,137 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:01,137 - root [INFO] - Writing last synced block 500028
+2022-02-10 14:10:01,219 - root [INFO] - Current block 14180935, target block 500029, last synced block 500028, blocks to sync 1
+2022-02-10 14:10:01,219 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:01,302 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:01,302 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082901.
+2022-02-10 14:10:01,302 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,387 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084991.
+2022-02-10 14:10:01,387 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,388 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000588.
+2022-02-10 14:10:01,388 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:01,389 - root [INFO] - Writing last synced block 500029
+2022-02-10 14:10:01,474 - root [INFO] - Current block 14180935, target block 500030, last synced block 500029, blocks to sync 1
+2022-02-10 14:10:01,474 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.078334.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000048.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,553 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000042.
+2022-02-10 14:10:01,553 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:01,553 - root [INFO] - Writing last synced block 500030
+2022-02-10 14:10:01,636 - root [INFO] - Current block 14180935, target block 500031, last synced block 500030, blocks to sync 1
+2022-02-10 14:10:01,636 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:01,719 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:01,720 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083503.
+2022-02-10 14:10:01,720 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,802 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082185.
+2022-02-10 14:10:01,802 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:01,802 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000331.
+2022-02-10 14:10:01,803 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:01,803 - root [INFO] - Writing last synced block 500031
+2022-02-10 14:10:01,885 - root [INFO] - Current block 14180935, target block 500032, last synced block 500031, blocks to sync 1
+2022-02-10 14:10:01,886 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:01,972 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:01,972 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086763.
+2022-02-10 14:10:01,972 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,059 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.086397.
+2022-02-10 14:10:02,059 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,059 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000078.
+2022-02-10 14:10:02,059 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:02,060 - root [INFO] - Writing last synced block 500032
+2022-02-10 14:10:02,146 - root [INFO] - Current block 14180935, target block 500033, last synced block 500032, blocks to sync 1
+2022-02-10 14:10:02,146 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:02,230 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:02,230 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084255.
+2022-02-10 14:10:02,231 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,321 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.090351.
+2022-02-10 14:10:02,321 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,322 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000418.
+2022-02-10 14:10:02,322 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:02,322 - root [INFO] - Writing last synced block 500033
+2022-02-10 14:10:02,403 - root [INFO] - Current block 14180935, target block 500034, last synced block 500033, blocks to sync 1
+2022-02-10 14:10:02,404 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:02,490 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:02,491 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086970.
+2022-02-10 14:10:02,491 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,491 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000045.
+2022-02-10 14:10:02,491 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,491 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000038.
+2022-02-10 14:10:02,491 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:02,491 - root [INFO] - Writing last synced block 500034
+2022-02-10 14:10:02,573 - root [INFO] - Current block 14180935, target block 500035, last synced block 500034, blocks to sync 1
+2022-02-10 14:10:02,574 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:02,655 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:02,655 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081947.
+2022-02-10 14:10:02,656 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,656 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000044.
+2022-02-10 14:10:02,656 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,656 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000064.
+2022-02-10 14:10:02,656 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:02,656 - root [INFO] - Writing last synced block 500035
+2022-02-10 14:10:02,754 - root [INFO] - Current block 14180935, target block 500036, last synced block 500035, blocks to sync 1
+2022-02-10 14:10:02,754 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:02,847 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:02,847 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.093232.
+2022-02-10 14:10:02,847 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,848 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000167.
+2022-02-10 14:10:02,848 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:02,848 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000203.
+2022-02-10 14:10:02,849 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:02,849 - root [INFO] - Writing last synced block 500036
+2022-02-10 14:10:02,938 - root [INFO] - Current block 14180935, target block 500037, last synced block 500036, blocks to sync 1
+2022-02-10 14:10:02,938 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:03,020 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:03,020 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081897.
+2022-02-10 14:10:03,020 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,020 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000090.
+2022-02-10 14:10:03,021 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,021 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000076.
+2022-02-10 14:10:03,021 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:03,021 - root [INFO] - Writing last synced block 500037
+2022-02-10 14:10:03,106 - root [INFO] - Current block 14180935, target block 500038, last synced block 500037, blocks to sync 1
+2022-02-10 14:10:03,106 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:03,194 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:03,194 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.087472.
+2022-02-10 14:10:03,194 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,276 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082342.
+2022-02-10 14:10:03,276 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,277 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000422.
+2022-02-10 14:10:03,277 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:03,277 - root [INFO] - Writing last synced block 500038
+2022-02-10 14:10:03,359 - root [INFO] - Current block 14180935, target block 500039, last synced block 500038, blocks to sync 1
+2022-02-10 14:10:03,359 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:03,442 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:03,442 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083026.
+2022-02-10 14:10:03,443 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,546 - ProgressLogger [INFO] - Finished work. Total items processed: 4. Took 0:00:00.103533.
+2022-02-10 14:10:03,547 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,547 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000487.
+2022-02-10 14:10:03,547 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:03,548 - root [INFO] - Writing last synced block 500039
+2022-02-10 14:10:03,634 - root [INFO] - Current block 14180935, target block 500040, last synced block 500039, blocks to sync 1
+2022-02-10 14:10:03,634 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:03,733 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:03,734 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.099501.
+2022-02-10 14:10:03,734 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,734 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000067.
+2022-02-10 14:10:03,734 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,734 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000061.
+2022-02-10 14:10:03,734 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:03,734 - root [INFO] - Writing last synced block 500040
+2022-02-10 14:10:03,822 - root [INFO] - Current block 14180935, target block 500041, last synced block 500040, blocks to sync 1
+2022-02-10 14:10:03,822 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.090598.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000107.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:03,913 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000090.
+2022-02-10 14:10:03,914 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:03,914 - root [INFO] - Writing last synced block 500041
+2022-02-10 14:10:03,998 - root [INFO] - Current block 14180935, target block 500042, last synced block 500041, blocks to sync 1
+2022-02-10 14:10:03,998 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:04,094 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:04,094 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.095722.
+2022-02-10 14:10:04,094 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,094 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000110.
+2022-02-10 14:10:04,094 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,095 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000093.
+2022-02-10 14:10:04,095 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:04,095 - root [INFO] - Writing last synced block 500042
+2022-02-10 14:10:04,181 - root [INFO] - Current block 14180935, target block 500043, last synced block 500042, blocks to sync 1
+2022-02-10 14:10:04,181 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:04,262 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:04,263 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081290.
+2022-02-10 14:10:04,263 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,345 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082322.
+2022-02-10 14:10:04,346 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,347 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000817.
+2022-02-10 14:10:04,347 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:04,347 - root [INFO] - Writing last synced block 500043
+2022-02-10 14:10:04,437 - root [INFO] - Current block 14180935, target block 500044, last synced block 500043, blocks to sync 1
+2022-02-10 14:10:04,437 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.079347.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000049.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,516 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000037.
+2022-02-10 14:10:04,516 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:04,517 - root [INFO] - Writing last synced block 500044
+2022-02-10 14:10:04,599 - root [INFO] - Current block 14180935, target block 500045, last synced block 500044, blocks to sync 1
+2022-02-10 14:10:04,599 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:04,681 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:04,682 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082983.
+2022-02-10 14:10:04,682 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,682 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000087.
+2022-02-10 14:10:04,682 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,682 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000072.
+2022-02-10 14:10:04,682 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:04,682 - root [INFO] - Writing last synced block 500045
+2022-02-10 14:10:04,767 - root [INFO] - Current block 14180935, target block 500046, last synced block 500045, blocks to sync 1
+2022-02-10 14:10:04,767 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.177868.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000082.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:04,945 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000069.
+2022-02-10 14:10:04,946 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:04,946 - root [INFO] - Writing last synced block 500046
+2022-02-10 14:10:05,030 - root [INFO] - Current block 14180935, target block 500047, last synced block 500046, blocks to sync 1
+2022-02-10 14:10:05,030 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:05,114 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:05,114 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.084051.
+2022-02-10 14:10:05,114 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,195 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081048.
+2022-02-10 14:10:05,195 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,196 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000542.
+2022-02-10 14:10:05,196 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:05,196 - root [INFO] - Writing last synced block 500047
+2022-02-10 14:10:05,279 - root [INFO] - Current block 14180935, target block 500048, last synced block 500047, blocks to sync 1
+2022-02-10 14:10:05,279 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:05,379 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:05,379 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.100153.
+2022-02-10 14:10:05,380 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,465 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.085288.
+2022-02-10 14:10:05,465 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,465 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000043.
+2022-02-10 14:10:05,465 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:05,465 - root [INFO] - Writing last synced block 500048
+2022-02-10 14:10:05,546 - root [INFO] - Current block 14180935, target block 500049, last synced block 500048, blocks to sync 1
+2022-02-10 14:10:05,546 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:05,629 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:05,629 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082584.
+2022-02-10 14:10:05,629 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,713 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083837.
+2022-02-10 14:10:05,714 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,714 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000149.
+2022-02-10 14:10:05,714 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:05,714 - root [INFO] - Writing last synced block 500049
+2022-02-10 14:10:05,803 - root [INFO] - Current block 14180935, target block 500050, last synced block 500049, blocks to sync 1
+2022-02-10 14:10:05,803 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:05,889 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:05,889 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.086022.
+2022-02-10 14:10:05,889 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,986 - ProgressLogger [INFO] - Finished work. Total items processed: 4. Took 0:00:00.097050.
+2022-02-10 14:10:05,987 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:05,988 - ProgressLogger [INFO] - Finished work. Total items processed: 3. Took 0:00:00.000769.
+2022-02-10 14:10:05,988 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:05,989 - root [INFO] - Writing last synced block 500050
+2022-02-10 14:10:06,077 - root [INFO] - Current block 14180935, target block 500051, last synced block 500050, blocks to sync 1
+2022-02-10 14:10:06,077 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:06,163 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:06,163 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.085702.
+2022-02-10 14:10:06,163 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,244 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080608.
+2022-02-10 14:10:06,244 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,244 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000071.
+2022-02-10 14:10:06,244 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:06,244 - root [INFO] - Writing last synced block 500051
+2022-02-10 14:10:06,327 - root [INFO] - Current block 14180935, target block 500052, last synced block 500051, blocks to sync 1
+2022-02-10 14:10:06,328 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:06,409 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:06,409 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081474.
+2022-02-10 14:10:06,409 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,409 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000057.
+2022-02-10 14:10:06,409 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,410 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000047.
+2022-02-10 14:10:06,410 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:06,410 - root [INFO] - Writing last synced block 500052
+2022-02-10 14:10:06,490 - root [INFO] - Current block 14180935, target block 500053, last synced block 500052, blocks to sync 1
+2022-02-10 14:10:06,490 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:06,570 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:06,571 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080317.
+2022-02-10 14:10:06,571 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,654 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083158.
+2022-02-10 14:10:06,654 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,655 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000691.
+2022-02-10 14:10:06,655 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:06,656 - root [INFO] - Writing last synced block 500053
+2022-02-10 14:10:06,747 - root [INFO] - Current block 14180935, target block 500054, last synced block 500053, blocks to sync 1
+2022-02-10 14:10:06,747 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:06,835 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:06,835 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.087650.
+2022-02-10 14:10:06,835 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,835 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000090.
+2022-02-10 14:10:06,835 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:06,836 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000083.
+2022-02-10 14:10:06,836 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:06,836 - root [INFO] - Writing last synced block 500054
+2022-02-10 14:10:06,921 - root [INFO] - Current block 14180935, target block 500055, last synced block 500054, blocks to sync 1
+2022-02-10 14:10:06,921 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,003 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,003 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082223.
+2022-02-10 14:10:07,003 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,004 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000083.
+2022-02-10 14:10:07,004 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,004 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000076.
+2022-02-10 14:10:07,004 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,004 - root [INFO] - Writing last synced block 500055
+2022-02-10 14:10:07,086 - root [INFO] - Current block 14180935, target block 500056, last synced block 500055, blocks to sync 1
+2022-02-10 14:10:07,086 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,215 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,215 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.128775.
+2022-02-10 14:10:07,215 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,216 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000100.
+2022-02-10 14:10:07,216 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,216 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000085.
+2022-02-10 14:10:07,216 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,216 - root [INFO] - Writing last synced block 500056
+2022-02-10 14:10:07,304 - root [INFO] - Current block 14180935, target block 500057, last synced block 500056, blocks to sync 1
+2022-02-10 14:10:07,304 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,387 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,387 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083126.
+2022-02-10 14:10:07,387 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,469 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.081511.
+2022-02-10 14:10:07,469 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,470 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000511.
+2022-02-10 14:10:07,470 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,470 - root [INFO] - Writing last synced block 500057
+2022-02-10 14:10:07,553 - root [INFO] - Current block 14180935, target block 500058, last synced block 500057, blocks to sync 1
+2022-02-10 14:10:07,553 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080312.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000067.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,634 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000059.
+2022-02-10 14:10:07,634 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,634 - root [INFO] - Writing last synced block 500058
+2022-02-10 14:10:07,719 - root [INFO] - Current block 14180935, target block 500059, last synced block 500058, blocks to sync 1
+2022-02-10 14:10:07,719 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,799 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,799 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080105.
+2022-02-10 14:10:07,800 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,800 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000083.
+2022-02-10 14:10:07,800 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,800 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000069.
+2022-02-10 14:10:07,800 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,800 - root [INFO] - Writing last synced block 500059
+2022-02-10 14:10:07,885 - root [INFO] - Current block 14180935, target block 500060, last synced block 500059, blocks to sync 1
+2022-02-10 14:10:07,885 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:07,976 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:07,977 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.091662.
+2022-02-10 14:10:07,977 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,977 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000170.
+2022-02-10 14:10:07,977 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:07,978 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000127.
+2022-02-10 14:10:07,978 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:07,978 - root [INFO] - Writing last synced block 500060
+2022-02-10 14:10:08,064 - root [INFO] - Current block 14180935, target block 500061, last synced block 500060, blocks to sync 1
+2022-02-10 14:10:08,064 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:08,328 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:08,328 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.263632.
+2022-02-10 14:10:08,328 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,409 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.080842.
+2022-02-10 14:10:08,409 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,409 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000045.
+2022-02-10 14:10:08,409 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:08,409 - root [INFO] - Writing last synced block 500061
+2022-02-10 14:10:08,492 - root [INFO] - Current block 14180935, target block 500062, last synced block 500061, blocks to sync 1
+2022-02-10 14:10:08,492 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:08,574 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:08,574 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082159.
+2022-02-10 14:10:08,575 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,575 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000101.
+2022-02-10 14:10:08,575 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,575 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000082.
+2022-02-10 14:10:08,575 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:08,575 - root [INFO] - Writing last synced block 500062
+2022-02-10 14:10:08,660 - root [INFO] - Current block 14180935, target block 500063, last synced block 500062, blocks to sync 1
+2022-02-10 14:10:08,660 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:08,826 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:08,826 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.166436.
+2022-02-10 14:10:08,826 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,826 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000042.
+2022-02-10 14:10:08,827 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:08,827 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000036.
+2022-02-10 14:10:08,827 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:08,827 - root [INFO] - Writing last synced block 500063
+2022-02-10 14:10:08,916 - root [INFO] - Current block 14180935, target block 500064, last synced block 500063, blocks to sync 1
+2022-02-10 14:10:08,916 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:08,999 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:09,000 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.083644.
+2022-02-10 14:10:09,000 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,094 - ProgressLogger [INFO] - Finished work. Total items processed: 4. Took 0:00:00.093752.
+2022-02-10 14:10:09,094 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,095 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.000675.
+2022-02-10 14:10:09,095 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:09,096 - root [INFO] - Writing last synced block 500064
+2022-02-10 14:10:09,184 - root [INFO] - Current block 14180935, target block 500065, last synced block 500064, blocks to sync 1
+2022-02-10 14:10:09,184 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:09,266 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:09,266 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.082462.
+2022-02-10 14:10:09,266 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,353 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.086983.
+2022-02-10 14:10:09,354 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,354 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000158.
+2022-02-10 14:10:09,354 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:09,355 - root [INFO] - Writing last synced block 500065
+2022-02-10 14:10:09,437 - root [INFO] - Current block 14180935, target block 500066, last synced block 500065, blocks to sync 1
+2022-02-10 14:10:09,437 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:09,525 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:09,526 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.088185.
+2022-02-10 14:10:09,526 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,912 - ProgressLogger [INFO] - Finished work. Total items processed: 16. Took 0:00:00.386380.
+2022-02-10 14:10:09,912 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:09,912 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000059.
+2022-02-10 14:10:09,912 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:09,913 - root [INFO] - Writing last synced block 500066
+2022-02-10 14:10:10,007 - root [INFO] - Current block 14180935, target block 500067, last synced block 500066, blocks to sync 1
+2022-02-10 14:10:10,007 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.091136.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000056.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,098 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000042.
+2022-02-10 14:10:10,098 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:10,098 - root [INFO] - Writing last synced block 500067
+2022-02-10 14:10:10,188 - root [INFO] - Current block 14180935, target block 500068, last synced block 500067, blocks to sync 1
+2022-02-10 14:10:10,188 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:10,276 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:10,277 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.088219.
+2022-02-10 14:10:10,277 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,277 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000127.
+2022-02-10 14:10:10,277 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,277 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000055.
+2022-02-10 14:10:10,277 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:10,278 - root [INFO] - Writing last synced block 500068
+2022-02-10 14:10:10,376 - root [INFO] - Current block 14180935, target block 500069, last synced block 500068, blocks to sync 1
+2022-02-10 14:10:10,376 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:10,470 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:10,470 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.094127.
+2022-02-10 14:10:10,471 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,471 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000129.
+2022-02-10 14:10:10,471 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,471 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000095.
+2022-02-10 14:10:10,471 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:10,471 - root [INFO] - Writing last synced block 500069
+2022-02-10 14:10:10,566 - root [INFO] - Current block 14180935, target block 500070, last synced block 500069, blocks to sync 1
+2022-02-10 14:10:10,566 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.095824.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000079.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,662 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000075.
+2022-02-10 14:10:10,662 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:10,663 - root [INFO] - Writing last synced block 500070
+2022-02-10 14:10:10,758 - root [INFO] - Current block 14180935, target block 500071, last synced block 500070, blocks to sync 1
+2022-02-10 14:10:10,759 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:10,848 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:10,848 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.089608.
+2022-02-10 14:10:10,848 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,943 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.094852.
+2022-02-10 14:10:10,944 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:10,949 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.005175.
+2022-02-10 14:10:10,949 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:10,949 - root [INFO] - Writing last synced block 500071
+2022-02-10 14:10:11,048 - root [INFO] - Current block 14180935, target block 500072, last synced block 500071, blocks to sync 1
+2022-02-10 14:10:11,048 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.108139.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000069.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,156 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000052.
+2022-02-10 14:10:11,156 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:11,156 - root [INFO] - Writing last synced block 500072
+2022-02-10 14:10:11,251 - root [INFO] - Current block 14180935, target block 500073, last synced block 500072, blocks to sync 1
+2022-02-10 14:10:11,251 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:11,349 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:11,350 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.098514.
+2022-02-10 14:10:11,350 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,449 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.098966.
+2022-02-10 14:10:11,449 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,449 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000082.
+2022-02-10 14:10:11,449 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:11,450 - root [INFO] - Writing last synced block 500073
+2022-02-10 14:10:11,541 - root [INFO] - Current block 14180935, target block 500074, last synced block 500073, blocks to sync 1
+2022-02-10 14:10:11,542 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:11,639 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:11,640 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.098028.
+2022-02-10 14:10:11,640 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,739 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.099178.
+2022-02-10 14:10:11,739 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,756 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.016732.
+2022-02-10 14:10:11,756 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:11,757 - root [INFO] - Writing last synced block 500074
+2022-02-10 14:10:11,857 - root [INFO] - Current block 14180935, target block 500075, last synced block 500074, blocks to sync 1
+2022-02-10 14:10:11,857 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:11,989 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:11,989 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.132466.
+2022-02-10 14:10:11,990 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,990 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000072.
+2022-02-10 14:10:11,990 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:11,990 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000065.
+2022-02-10 14:10:11,990 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:11,990 - root [INFO] - Writing last synced block 500075
+2022-02-10 14:10:12,084 - root [INFO] - Current block 14180935, target block 500076, last synced block 500075, blocks to sync 1
+2022-02-10 14:10:12,084 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:12,195 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:12,196 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.111752.
+2022-02-10 14:10:12,196 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,196 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000081.
+2022-02-10 14:10:12,196 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,196 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000075.
+2022-02-10 14:10:12,196 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:12,197 - root [INFO] - Writing last synced block 500076
+2022-02-10 14:10:12,290 - root [INFO] - Current block 14180935, target block 500077, last synced block 500076, blocks to sync 1
+2022-02-10 14:10:12,290 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:12,379 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:12,380 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.090032.
+2022-02-10 14:10:12,380 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,380 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000081.
+2022-02-10 14:10:12,380 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,380 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000063.
+2022-02-10 14:10:12,380 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:12,381 - root [INFO] - Writing last synced block 500077
+2022-02-10 14:10:12,498 - root [INFO] - Current block 14180935, target block 500078, last synced block 500077, blocks to sync 1
+2022-02-10 14:10:12,499 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:12,619 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:12,619 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.120437.
+2022-02-10 14:10:12,619 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,743 - ProgressLogger [INFO] - Finished work. Total items processed: 10. Took 0:00:00.123771.
+2022-02-10 14:10:12,743 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:12,744 - ProgressLogger [INFO] - Finished work. Total items processed: 3. Took 0:00:00.000325.
+2022-02-10 14:10:12,744 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:12,744 - root [INFO] - Writing last synced block 500078
+2022-02-10 14:10:12,834 - root [INFO] - Current block 14180935, target block 500079, last synced block 500078, blocks to sync 1
+2022-02-10 14:10:12,834 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:12,923 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:12,923 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.088915.
+2022-02-10 14:10:12,923 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,012 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.089353.
+2022-02-10 14:10:13,013 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,013 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000044.
+2022-02-10 14:10:13,013 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:13,013 - root [INFO] - Writing last synced block 500079
+2022-02-10 14:10:13,104 - root [INFO] - Current block 14180935, target block 500080, last synced block 500079, blocks to sync 1
+2022-02-10 14:10:13,104 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.087798.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000043.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,192 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000035.
+2022-02-10 14:10:13,192 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:13,192 - root [INFO] - Writing last synced block 500080
+2022-02-10 14:10:13,282 - root [INFO] - Current block 14180935, target block 500081, last synced block 500080, blocks to sync 1
+2022-02-10 14:10:13,282 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:13,372 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:13,372 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.089967.
+2022-02-10 14:10:13,373 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,373 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000053.
+2022-02-10 14:10:13,373 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,373 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000037.
+2022-02-10 14:10:13,373 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:13,373 - root [INFO] - Writing last synced block 500081
+2022-02-10 14:10:13,462 - root [INFO] - Current block 14180935, target block 500082, last synced block 500081, blocks to sync 1
+2022-02-10 14:10:13,462 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:13,595 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:13,595 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.132806.
+2022-02-10 14:10:13,596 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,596 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000182.
+2022-02-10 14:10:13,596 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,596 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000136.
+2022-02-10 14:10:13,596 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:13,597 - root [INFO] - Writing last synced block 500082
+2022-02-10 14:10:13,692 - root [INFO] - Current block 14180935, target block 500083, last synced block 500082, blocks to sync 1
+2022-02-10 14:10:13,692 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:13,780 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:13,780 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.088080.
+2022-02-10 14:10:13,780 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,780 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000059.
+2022-02-10 14:10:13,780 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:13,781 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000054.
+2022-02-10 14:10:13,781 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:13,781 - root [INFO] - Writing last synced block 500083
+2022-02-10 14:10:13,875 - root [INFO] - Current block 14180935, target block 500084, last synced block 500083, blocks to sync 1
+2022-02-10 14:10:13,875 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:13,965 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:13,965 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.090399.
+2022-02-10 14:10:13,966 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,062 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.096335.
+2022-02-10 14:10:14,062 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,063 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000491.
+2022-02-10 14:10:14,063 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:14,063 - root [INFO] - Writing last synced block 500084
+2022-02-10 14:10:14,158 - root [INFO] - Current block 14180935, target block 500085, last synced block 500084, blocks to sync 1
+2022-02-10 14:10:14,158 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:14,247 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:14,247 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.088938.
+2022-02-10 14:10:14,247 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,248 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000091.
+2022-02-10 14:10:14,248 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,248 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000071.
+2022-02-10 14:10:14,248 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:14,248 - root [INFO] - Writing last synced block 500085
+2022-02-10 14:10:14,340 - root [INFO] - Current block 14180935, target block 500086, last synced block 500085, blocks to sync 1
+2022-02-10 14:10:14,340 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:14,447 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:14,447 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.106938.
+2022-02-10 14:10:14,447 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,541 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.093324.
+2022-02-10 14:10:14,541 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,541 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000317.
+2022-02-10 14:10:14,541 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:14,542 - root [INFO] - Writing last synced block 500086
+2022-02-10 14:10:14,634 - root [INFO] - Current block 14180935, target block 500087, last synced block 500086, blocks to sync 1
+2022-02-10 14:10:14,634 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:14,724 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:14,725 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.090747.
+2022-02-10 14:10:14,725 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,824 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.098680.
+2022-02-10 14:10:14,824 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:14,824 - ProgressLogger [INFO] - Finished work. Total items processed: 0. Took 0:00:00.000123.
+2022-02-10 14:10:14,825 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:14,825 - root [INFO] - Writing last synced block 500087
+2022-02-10 14:10:14,918 - root [INFO] - Current block 14180935, target block 500088, last synced block 500087, blocks to sync 1
+2022-02-10 14:10:14,918 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:15,013 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:15,014 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.095722.
+2022-02-10 14:10:15,014 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:15,112 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.097605.
+2022-02-10 14:10:15,112 - ProgressLogger [INFO] - Started work.
+2022-02-10 14:10:15,113 - ProgressLogger [INFO] - Finished work. Total items processed: 2. Took 0:00:00.000545.
+2022-02-10 14:10:15,113 - root [INFO] - Exporting with MultiItemExporter
+2022-02-10 14:10:15,113 - root [INFO] - Writing last synced block 500088
+2022-02-10 14:10:15,207 - root [INFO] - Current block 14180935, target block 500089, last synced block 500088, blocks to sync 1
+2022-02-10 14:10:15,207 - ProgressLogger [INFO] - Started work. Items to process: 1.
+2022-02-10 14:10:15,299 - ProgressLogger [INFO] - 1 items processed. Progress is 100%.
+2022-02-10 14:10:15,299 - ProgressLogger [INFO] - Finished work. Total items processed: 1. Took 0:00:00.092446.
+2022-02-10 14:10:15,300 - ProgressLogger [INFO] - Started work.
