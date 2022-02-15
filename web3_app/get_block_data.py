@@ -13,5 +13,5 @@ test_address = '0x8aecDAC523Eb208805780271BEBF19727F2f666F'
 
 print("isConnected:", web3.isConnected())
 
-latestBlock = web3.eth.getBlock('latest')
+latestBlock = web3.eth.getBlock(14212927)
 print("Latest Block: ", latestBlock)
