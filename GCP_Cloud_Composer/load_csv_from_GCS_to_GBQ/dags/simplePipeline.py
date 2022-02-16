@@ -7,7 +7,7 @@ pip3 install apache-airflow[gcp]
 '''
 from airflow import models
 from datetime import datetime, timedelta
-from airflow.contrib.operators.dataflow_operator import DataFlowPythonOperator
+from airflow.operators.python import PythonOperator
 
 default_args = {
     'owner': 'Airflow',
@@ -25,8 +25,8 @@ with models.DAG('transactions_dag',
                 default_args=default_args,
                 schedule_interval='@daily',
                 catchup=False) as dag:
-    t1 = DataFlowPythonOperator(
+    t1 = PythonOperator(
         task_id='ethtask',
-        py_file='gs://us-west1-eth-transactions-2168f060-bucket/pyLoader.py',
+        python_callable='gs://us-west1-eth-transactions-2168f060-bucket/pyLoader.py',
         # options={'input': 'gs://daily_food_orders/food_daily.csv'}
     )
