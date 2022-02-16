@@ -12,7 +12,7 @@ client = bigquery.Client()
 
 def load_data():
     # Set table_id to the ID of the table to create.
-    table_id = "avian-force-340302.eth_transaction.transactions"
+    table_id = "avian-force-340302.eth_transaction.transactions2"
     """
         hash_ STRING,
         nonce BIGINT,
@@ -33,20 +33,20 @@ def load_data():
     job_config = bigquery.LoadJobConfig(
         schema=[
             bigquery.SchemaField("hash_", "STRING"),
-            bigquery.SchemaField("nonce", "STRING"),
+            bigquery.SchemaField("nonce", "INTEGER"),
             bigquery.SchemaField("block_hash", "STRING"),
-            bigquery.SchemaField("block_number", "BIGINT"),
-            bigquery.SchemaField("transaction_index", "BIGINT"),
+            bigquery.SchemaField("block_number", "INTEGER"),
+            bigquery.SchemaField("transaction_index", "INTEGER"),
             bigquery.SchemaField("from_address", "STRING"),
             bigquery.SchemaField("to_address", "STRING"),
-            bigquery.SchemaField("value", "DECIMAL"),
-            bigquery.SchemaField("gas", "BIGINT"),
-            bigquery.SchemaField("gas_price", "BIGINT"),
+            bigquery.SchemaField("value", "STRING"),
+            bigquery.SchemaField("gas", "INTEGER"),
+            bigquery.SchemaField("gas_price", "INTEGER"),
             bigquery.SchemaField("input", "STRING"),
-            bigquery.SchemaField("block_timestamp", "INT64"),
-            bigquery.SchemaField("max_fee_per_gas", "INT64"),
-            bigquery.SchemaField("max_priority_fee_per_gas", "INT64"),
-            bigquery.SchemaField("transaction_type", "INT64"),
+            bigquery.SchemaField("block_timestamp", "INTEGER"),
+            bigquery.SchemaField("max_fee_per_gas", "FLOAT64"),
+            bigquery.SchemaField("max_priority_fee_per_gas", "FLOAT64"),
+            bigquery.SchemaField("transaction_type", "INTEGER"),
         ],
         skip_leading_rows=1,
         # The source format defaults to CSV, so the line below is optional.
