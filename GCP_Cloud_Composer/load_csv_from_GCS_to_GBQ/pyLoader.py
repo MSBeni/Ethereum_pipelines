@@ -4,12 +4,41 @@ from google.cloud import bigquery
 client = bigquery.Client()
 
 # Set table_id to the ID of the table to create.
-table_id = "your-project.your_dataset.your_table_name"
-
+table_id = "avian-force-340302.eth_transaction.transactions"
+"""
+    hash_ STRING,
+    nonce BIGINT,
+    block_hash STRING,
+    block_number BIGINT,
+    transaction_index BIGINT,
+    from_address STRING,
+    to_address STRING,
+    value DECIMAL,
+    gas BIGINT,
+    gas_price BIGINT,
+    input STRING,
+    block_timestamp INT64,
+    max_fee_per_gas INT64,
+    max_priority_fee_per_gas INT64,
+    transaction_type INT64
+"""
 job_config = bigquery.LoadJobConfig(
     schema=[
-        bigquery.SchemaField("name", "STRING"),
-        bigquery.SchemaField("post_abbr", "STRING"),
+        bigquery.SchemaField("hash_", "STRING"),
+        bigquery.SchemaField("nonce", "STRING"),
+        bigquery.SchemaField("block_hash", "STRING"),
+        bigquery.SchemaField("block_number", "BIGINT"),
+        bigquery.SchemaField("transaction_index", "BIGINT"),
+        bigquery.SchemaField("from_address", "STRING"),
+        bigquery.SchemaField("to_address", "STRING"),
+        bigquery.SchemaField("value", "DECIMAL"),
+        bigquery.SchemaField("gas", "BIGINT"),
+        bigquery.SchemaField("gas_price", "BIGINT"),
+        bigquery.SchemaField("input", "STRING"),
+        bigquery.SchemaField("block_timestamp", "INT64"),
+        bigquery.SchemaField("max_fee_per_gas", "INT64"),
+        bigquery.SchemaField("max_priority_fee_per_gas", "INT64"),
+        bigquery.SchemaField("transaction_type", "INT64"),
     ],
     skip_leading_rows=1,
     # The source format defaults to CSV, so the line below is optional.
