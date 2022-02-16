@@ -20,3 +20,13 @@ pp = pprint.PrettyPrinter(indent=4)
 # pp.pprint(dict(latestBlock).keys())
 
 print(dict(latestBlock)['transactions'][0])
+
+
+
+
+transaction = dict(latestBlock)['transactions'][0]
+
+print("isConnected:", web3.isConnected())
+
+trans = web3.eth.get_transaction(transaction)
+pp.pprint(trans)
