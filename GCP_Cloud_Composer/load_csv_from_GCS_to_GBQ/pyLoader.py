@@ -44,7 +44,7 @@ job_config = bigquery.LoadJobConfig(
     # The source format defaults to CSV, so the line below is optional.
     source_format=bigquery.SourceFormat.CSV,
 )
-uri = "gs://cloud-samples-data/bigquery/us-states/us-states.csv"
+uri = "gs://us-west1-eth-transactions-2168f060-bucket/transactions.csv"
 
 load_job = client.load_table_from_uri(
     uri, table_id, job_config=job_config
