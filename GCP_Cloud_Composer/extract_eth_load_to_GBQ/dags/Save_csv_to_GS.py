@@ -132,7 +132,7 @@ def read_las_block_save_to_csv(**kwargs):
     # latest_transaction_df.to_csv('gs://us-west1-eth-transactions-2168f060-bucket/saved_data/latest_block_'
     #                              + str(dict(latestBlock)['number']) + ".csv",
     #                              columns=['hash', 'nonce', 'block_hash', 'block_number', 'transaction_index',
-    #                                       'from_address', 'to_address', 'gas', 'gas_price', 'input', 'block_timestamp',
+    #                                      'from_address', 'to_address', 'gas', 'gas_price', 'input', 'block_timestamp',
     #                                       'max_fee_per_gas', 'max_priority_fee_per_gas', 'transaction_type'])
 
 
@@ -143,7 +143,7 @@ default_args = {
     'retries': 0,
     'retry_delay': timedelta(seconds=50),
     'dataflow_default_options': {
-        'project': 'avian-force-340302',
+        'project': 'avian-force-340302', 
         'region': 'us-west1',
         'runner': 'DataflowRunner'
     }
