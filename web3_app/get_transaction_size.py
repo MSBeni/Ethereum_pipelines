@@ -15,3 +15,4 @@ print("isConnected:", web3.isConnected())
 
 latestBlock = web3.eth.getBlock(15669699)
 print("Latest Block: ", latestBlock.size)
+print("Latest Block: ", latestBlock.keys())
